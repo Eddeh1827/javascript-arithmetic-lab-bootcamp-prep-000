@@ -12,11 +12,11 @@ function divide(a, b) {
 };
 function inc(n) {
   var n = 540;
-  return n++;
+  return n+=;
 };
 function dec(n) {
   var n = 91;
-  return n--;
+  return n-=;
 };
 function makeInt(n) {
   var n = "2"
