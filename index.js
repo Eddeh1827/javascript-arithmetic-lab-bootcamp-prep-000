@@ -24,3 +24,6 @@ function preserveDecimal(n) {
   var n = 2.222;
   return parseFloat(n);
 };
+function preserveDecimal(n) {
+  return parseInt('2.222', 10);
+}
