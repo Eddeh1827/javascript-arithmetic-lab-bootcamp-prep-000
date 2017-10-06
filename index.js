@@ -10,6 +10,7 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b;
 };
+var n = 345;
 function inc(n) {
   var n = 547;
   return n+= 1;
