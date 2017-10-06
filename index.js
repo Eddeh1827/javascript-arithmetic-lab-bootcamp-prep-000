@@ -24,4 +24,3 @@ function preserveDecimal(n) {
   var n = 2.222;
   return parseFloat(n);
 };
-
