@@ -21,7 +21,6 @@ function makeInt(n) {
   return parseInt(n, 10);
 };
 function preserveDecimal(n) {
-  parseInt('twooo', 10);
-  var n = 2.222;
-  return parseFloat(n);
+  var n = "ten"
+return parseInt(n, 10);
 };
