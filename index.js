@@ -18,6 +18,5 @@ function dec(n) {
   return n-= 1;
 };
 function makeInt(n) {
-  var n = '5';
-  parseInt(n,10);
+  var n = parseInt('2',10);
 };
