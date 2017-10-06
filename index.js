@@ -11,9 +11,11 @@ function divide(a, b) {
   return a / b;
 };
 function inc(n) {
-  return n+=;
+  var n = 29;
+  return n++;
 };
 function dec(n) {
+  var n = 91;
   return n--;
 };
 function makeInt(n) {
