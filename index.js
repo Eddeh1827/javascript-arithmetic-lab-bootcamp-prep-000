@@ -27,3 +27,8 @@ function preserveDecimal(n) {
 function preserveDecimal(n) {
   return parseInt('NotReal', 10);
 }
+function preserveDecimal(n) {
+    var n = 2.222;
+    return parseInt(n, 10);
+  
+}
