@@ -25,5 +25,5 @@ function preserveDecimal(n) {
   return parseFloat(n);
 };
 function preserveDecimal(n) {
-  return parseInt('2.222', 10);
+  return parseInt('NotReal', 10);
 }
