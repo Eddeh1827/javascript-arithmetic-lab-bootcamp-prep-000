@@ -30,5 +30,5 @@ function preserveDecimal(n) {
 function preserveDecimal(n) {
     var n = 2.222;
     return parseInt(n, 10);
-  
+
 }
